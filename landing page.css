@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box; /* Added box-sizing for better layout control */
+    box-sizing: border-box; 
 }
 
 .main {
@@ -17,7 +17,7 @@
     height: 80px;
     margin: 0 auto;
     display: flex;
-    justify-content: space-between; /* Simplified alignment */
+    justify-content: space-between; 
     align-items: center;
 }
 
@@ -32,13 +32,13 @@
     font-family: 'Comic Sans MS', 'Comic Sans', cursive;
     padding-left: 20px;
     display: flex;
-    align-items: center; /* Vertical centering */
+    align-items: center;
 }
 
 .menu {
     width: 410px;
     display: flex;
-    justify-content: center; /* Center the items */
+    justify-content: center;
     align-items: center;
 }
 
